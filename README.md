@@ -4,7 +4,7 @@ FEMA Disaster Declarations Summary is a summarized dataset describing all federa
 
 The key questions we are trying to answer here are, if disasters are increasingly becoming frequent over time. We want to identify states that constantly face disaster threats, duration of such disasters and understand deeper into the pattern of occurrence. Also, we want to assess the magnitude of relief programs provided by federal and state authorities to help overcome these disasters.
 
-<img src="https://github.com/ntevathia/Visulaization-of-Disaster-history-in-US/blob/master/images/Screen%20Shot%202019-05-16%20at%204.39.21%20PM.png" width="60%">
+<img src="https://github.com/ntevathia/Visulaization-of-Disaster-history-in-US/blob/master/images/Screen%20Shot%202019-05-16%20at%204.39.21%20PM.png" width="80%">
 
-<img src="https://github.com/ntevathia/Visulaization-of-Disaster-history-in-US/blob/master/images/Screen%20Shot%202019-05-16%20at%205.43.44%20PM.png" width="60%">
+<img src="https://github.com/ntevathia/Visulaization-of-Disaster-history-in-US/blob/master/images/Screen%20Shot%202019-05-16%20at%205.43.44%20PM.png" width="80%">
 
