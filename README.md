@@ -7,3 +7,5 @@ The key questions we are trying to answer here are, if disasters are increasingl
 
 ![alt text](https://github.com/ntevathia/Visulaization-of-Disaster-history-in-US/blob/master/images/Screen%20Shot%202019-05-16%20at%204.39.21%20PM.png)
 
+![alt text](https://github.com/ntevathia/Visulaization-of-Disaster-history-in-US/blob/master/images/Screen%20Shot%202019-05-16%20at%205.43.44%20PM.png)
+
